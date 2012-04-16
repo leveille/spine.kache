@@ -1,0 +1,20 @@
+{ 
+  "name": "spine.kache",
+  "description": "",
+  "contributors" : ["Jason Leveille"],
+  "keywords": ["kache", "cache", "local storage", "caching", "expiration"],
+  "version": "0.0.9",
+  "author": "Jason Leveille <jason@leveille.co> (http://jason.leveille.co)",
+  "repository": { 
+    "type" : "git", 
+    "url": "http://github.com/leveille/spine.kache.git"
+  }, 
+  "main" : "./spine.kache.js",
+  "devDependencies" :
+  {
+    "coffee-script" : ">= 1.2.0",
+    "uglify-js" : ">= 1.2.5",
+    "kache" : ">= 0.0.9",
+    "spine" : ">= 1.0.6"
+  }
+}
