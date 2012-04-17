@@ -16,6 +16,5 @@ Usage
     User = Spine.Model.setup("User", ["name"]);
     User.extend(Spine.Model.Kache);
     User.create({name: "Jason"});
-    User.fetch();
 
 At this point take a look in localStorage and you'll see your users.
