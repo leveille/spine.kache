@@ -1,0 +1,1 @@
+[<img src="https://secure.travis-ci.org/leveille/spine.kache.png" />](http://travis-ci.org/#!/leveille/spine.kache)
